@@ -6,6 +6,8 @@
 - learning
   - systems programming
   - algorithms
+  - pascal
+  - assembly
 - contact
   - email
     - pyrite@tuta.io
