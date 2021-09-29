@@ -1,0 +1,13 @@
+- 0xpyrite
+- i use
+  - C
+  - node.js
+  - next.js
+- learning
+  - systems programming
+  - algorithms
+- contact
+  - email
+    - pyrite@tuta.io
+  - gnu jami
+    - pyr
