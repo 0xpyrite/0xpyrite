@@ -1,4 +1,4 @@
-- 0xpyrite
+# pyrite
 - i use
   - C
   - node.js
